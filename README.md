@@ -1,2 +1,2 @@
-# CPTS-101-Fall-2025
-Assignment 6
+# Stanley Parker
+stanley.parker@wsu.edu
